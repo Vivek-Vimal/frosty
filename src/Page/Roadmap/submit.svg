@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="230" height="74" viewBox="0 0 230 74">
+  <defs>
+    <filter id="Path_20651" x="0" y="0" width="230" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#002c65"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_29_9" data-name="Component 29 – 9" transform="translate(12 1)">
+    <g transform="matrix(1, 0, 0, 1, -12, -1)" filter="url(#Path_20651)">
+      <path id="Path_20651-2" data-name="Path 20651" d="M9,0H197a9,9,0,0,1,9,9V41a9,9,0,0,1-9,9H9a9,9,0,0,1-9-9V9A9,9,0,0,1,9,0Z" transform="translate(12 7)" fill="#c59b00"/>
+    </g>
+    <g id="Group_977" data-name="Group 977">
+      <rect id="Rectangle_113" data-name="Rectangle 113" width="206" height="50" rx="9" transform="translate(0 1)" fill="#fff2c4"/>
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="206" height="50" rx="9" fill="#f6c81d"/>
+    </g>
+    <text id="SUBMIT" transform="translate(64 33)" fill="#013c8a" font-size="20" font-family="Inter-Black, Inter" font-weight="800"><tspan x="0" y="0">SUBMIT</tspan></text>
+  </g>
+</svg>
